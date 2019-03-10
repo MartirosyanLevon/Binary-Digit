@@ -1,0 +1,7 @@
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\bin\Debug\BinaryDigit.exe.config
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\bin\Debug\BinaryDigit.exe
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\bin\Debug\BinaryDigit.pdb
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\obj\Debug\BinaryDigit.csprojAssemblyReference.cache
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\obj\Debug\BinaryDigit.csproj.CoreCompileInputs.cache
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\obj\Debug\BinaryDigit.exe
+C:\Users\mrlma\source\repos\BinaryDigit\BinaryDigit\obj\Debug\BinaryDigit.pdb
